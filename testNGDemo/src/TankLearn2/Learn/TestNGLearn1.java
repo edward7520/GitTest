@@ -18,6 +18,7 @@ public class TestNGLearn1 {
     @Test
     public void TestNgLearn() {
         System.out.println("this is TestNG test case");
+        System.out.println("this is TestNG test case,twice");
     }
 
     @AfterClass
